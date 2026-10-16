@@ -1,0 +1,12 @@
+TamilZero Model Evaluation
+===========================
+
+Best Model: SVM
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+
+Confusion Matrix:
+[[5 0]
+ [0 5]]
